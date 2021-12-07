@@ -1,0 +1,33 @@
+/*
+Theme Name: Kierrätysmyllyteema
+Theme URI: https://www.kierrätysmylly.fi
+Author: Sanna, Unna, Elina
+Author URI: https://kierrätysmylly.fi
+Description: Kierrätysmyllyteema
+Version: 1.0.0
+Tags: grid-layout, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, block-patterns, block-styles, custom-background, custom-logo, custom-menu, featured-images, featured-image-header, flexible-header, full-width-template, threaded-comments, translation-ready, footer-widgets, custom-colors, custom-header, editor-style, rtl-language-support, sticky-post, theme-options, wide-blocks, blog, news, photography
+ */
+
+body {
+  height: 100%;
+  width: 100%;
+}
+
+header {
+  background-color: green;
+  width: 100%;
+  height: 20%;
+}
+
+/*div.container {
+  background-color: blue;
+  width: 100%;
+  height: 60%;
+}*/
+
+
+footer {
+  background-color: red;
+  width: 100%;
+  height: 20%;
+}
